@@ -35,8 +35,8 @@ O projeto tem foco educacional e demonstra habilidades iniciais em manipulação
 1. Abrir o arquivo projeto_analise_dados.ipynb no Jupyter Notebook ou no VS Code
 2. Executar as células em ordem
 
-## Observação
+## 📘 Observação
 Projeto desenvolvido com fins educacionais durante o curso Hashtag.
 
-## Autor
-Heitor Fersan
+## 👤 Autor
+Heitor Ferreira
